@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="lblBase">Escribe la Base</string>
+    <string name="lblAltura">Escribe la Altura</string>
+    <string name="btnCalcularText">Calcular</string>
+    <string name="formula_triangulo">Formula Triangulo</string>
+    <string name="titulo_area_triangulo">AREA DEL TRIANGULO</string>
+</resources>
